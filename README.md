@@ -12,4 +12,4 @@ In features.py set Parent directory into train_path = ""
 if images in different size, remove comment from #fixed_size = tuple((120, 80)) and set your size, 
 and from #image = cv2.resize(image, fixed_size) 
 
-Features extracted will be stored in "Extracted_Features/data.h5"
+run features.py, Features extracted will be stored in "Extracted_Features/data.h5" and labels in "Extracted_Features/labels.h5"
