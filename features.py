@@ -13,7 +13,7 @@ import glob
 #fixed_size = tuple((120, 80))
 
 # path to training data
-train_path = "C:/Users/hicham/Desktop/S3/ImageMining/atel2/DB2C"
+train_path = "C:/Users/hicham/Desktop/S3/ImageMining/Data/DB2C"
 
 # no of trees for Random Forests
 num_trees = 100
