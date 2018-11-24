@@ -13,3 +13,5 @@ if images in different size, remove comment from #fixed_size = tuple((120, 80)) 
 and from #image = cv2.resize(image, fixed_size) 
 
 run features.py, Features extracted will be stored in "Extracted_Features/data.h5" and labels in "Extracted_Features/labels.h5"
+
+run main.py to see how well works different classifications algorithms
