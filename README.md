@@ -16,4 +16,4 @@ run features.py, Features extracted will be stored in "Extracted_Features/data.h
 
 run main.py to see how well work different classification algorithms and the performance on train/test Data
 
-to predict new images in DataToPredict folder using RandomForest Algorithm, train the model on the stored examples in Extracted_Features. extract features for images in DataToPredict by the same methods used for training images to make prediction based on extracted features.
+run test.py to predict (Classify) new images in DataToPredict folder using RandomForest Algorithm, train the model on the stored examples in Extracted_Features. extract features from images in DataToPredict by the same methods used for training images.
